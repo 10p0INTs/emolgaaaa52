@@ -1,5 +1,4 @@
 jekyll-theme-NAME
 theme:jekyll-theme-cayman
 
-plugins:
-  - jekyll-theme-cayman
+plugins: ["jekyll-theme:cayman"]
