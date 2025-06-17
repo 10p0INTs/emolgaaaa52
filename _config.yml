@@ -1,4 +1,10 @@
-jekyll-theme-NAME
-theme:jekyll-theme-cayman
+title: "花鼯彗海"
+baseurl: ""
+theme: jekyll-theme-cayman
 
-plugins:["jekyll-theme:cayman"]
+plugins:
+  - jekyll-theme-cayman
+
+kramdown:
+  input: GFM
+  hard_wrap: false
